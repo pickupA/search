@@ -6,7 +6,9 @@
             "email": "pickup@mittarget.com"
         }
     ],
-    "require": {},
+    "require": {
+        "elasticsearch/elasticsearch": "~1.0"
+    },
     "psr-4": {
         "Search\\": "src/"
     }
