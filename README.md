@@ -1,4 +1,0 @@
-search
-======
-
-Laravel search package.
