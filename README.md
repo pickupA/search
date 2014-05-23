@@ -1,0 +1,4 @@
+search
+======
+
+Laravel search package.
