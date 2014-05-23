@@ -1,0 +1,13 @@
+{
+    "name": "pickup/search",
+    "authors": [
+        {
+            "name": "pickupa",
+            "email": "pickup@mittarget.com"
+        }
+    ],
+    "require": {},
+    "psr-4": {
+        "Search\\": "src/"
+    }
+}
